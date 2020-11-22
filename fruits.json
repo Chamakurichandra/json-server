@@ -1,0 +1,64 @@
+{
+  "fruits": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "price": "Rs 60 per unit",
+      "picture":"https://i.postimg.cc/fb51yjN9/apple1.jpg",
+      "info":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint, ab. Adipisci ipsum ratione deleniti sunt est dolorem dignissimos libero. Distinctio eaque iure fugiat repellendus voluptatem laboriosam atque tempora amet accusamus.  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint, ab. Adipisci ipsum ratione deleniti sunt est dolorem dignissimos libero. Distinctio eaque iure fugiat repellendus voluptatem laboriosam atque tempora amet accusamus. ", 
+      "about":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+      "quantity":"kg",
+      "delivery":"Delivery by 27th November , 2020",
+      "ordernum":"#3451287",
+      "soldby":"Chandra",
+      "orderplaced":"25th November, 2020",
+      "total":"100",
+      "addedtokart": false
+    },
+    {
+      "id": 2,
+      "name": "Oranges",
+      "picture": "https://i.postimg.cc/sXbzf9YJ/orange.jpg",
+      "price": "Rs 60 per unit",
+       "info":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint, ab. Adipisci ipsum ratione deleniti sunt est dolorem dignissimos libero. Distinctio eaque iure fugiat repellendus voluptatem laboriosam atque tempora amet accusamus.  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint, ab. Adipisci ipsum ratione deleniti sunt est dolorem dignissimos libero. Distinctio eaque iure fugiat repellendus voluptatem laboriosam atque tempora amet accusamus. ", 
+      "about":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+      "quantity": "kg",
+      "delivery":"Delivery by 27th November , 2020",
+      "ordernum":"#3451287",
+      "soldby":"Chandra",
+      "orderplaced":"25th November, 2020",
+      "total":"100",
+      "addedtokart": true  
+      },
+    {
+      "id":3,
+      "name": "Potatos",
+      "picture":"https://i.postimg.cc/nrfWwdKN/potato.jpg",
+      "price": "Rs 60 per unit",
+      "info":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint, ab. Adipisci ipsum ratione deleniti sunt est dolorem dignissimos libero. Distinctio eaque iure fugiat repellendus voluptatem laboriosam atque tempora amet accusamus.  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint, ab. Adipisci ipsum ratione deleniti sunt est dolorem dignissimos libero. Distinctio eaque iure fugiat repellendus voluptatem laboriosam atque tempora amet accusamus. ", 
+      "about":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. ",
+      "quantity":"kg",
+      "delivery":"Delivery by 27th November , 2020",
+      "ordernum":"#3451287",
+      "soldby":"Chandra",
+      "orderplaced":"25th November, 2020",
+      "total":"100",
+      "addedtokart": false
+    },
+    {
+      "id":4,
+      "name": "Tomato",
+      "picture":"https://i.postimg.cc/Vs9ZkWWL/tamato.jpg",
+      "price": "Rs 60 per unit",
+      "info":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint, ab. Adipisci ipsum ratione deleniti sunt est dolorem dignissimos libero. Distinctio eaque iure fugiat repellendus voluptatem laboriosam atque tempora amet accusamus.  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint, ab. Adipisci ipsum ratione deleniti sunt est dolorem dignissimos libero. Distinctio eaque iure fugiat repellendus voluptatem laboriosam atque tempora amet accusamus. ", 
+      "about":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. ",
+      "quantity":"kg",
+      "delivery":"Delivery by 27th November , 2020",
+      "ordernum":"#3451287",
+      "soldby":"Chandra",
+      "orderplaced":"25th November, 2020",
+      "total":"100",
+      "addedtokart": false 
+    }
+  ]
+}
